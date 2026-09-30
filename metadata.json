@@ -1,0 +1,8 @@
+{
+  "name": "Bestie Mood-Fix System",
+  "description": "An emergency mood-booster specially crafted for your bestie with playful Hinglish surprises, laugh doses, and cheer-up games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
